@@ -1,0 +1,25 @@
+.container{
+    background-color: lemonchiffon;
+    font-size: 25px;
+}
+
+.container-two{
+    background-color: saddlebrown;
+    font-size: 20px;
+}
+
+.container-three{
+    background-color: antiquewhite;
+}
+
+h1{
+    text-align: center;
+}
+
+
+img{
+    width: 400px;
+    height: 400px;
+    display: block;
+    margin: auto;
+}
